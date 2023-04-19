@@ -2,4 +2,4 @@ streamlit
 altair
 pandas
 numpy
-statsmodels.api
+statsmodels
